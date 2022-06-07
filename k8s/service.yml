@@ -10,4 +10,4 @@ spec:
   - name: "qv2ray"
     port: 8080
   selector:
-    app: v2rayn
+    app: qv2ray
